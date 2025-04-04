@@ -64,4 +64,4 @@ Develop a **Task Management System** using **Laravel, SQLite, Blade, and Tailwin
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/Tost-intern/web-task.git
-cd task-manager
+cd web-task
